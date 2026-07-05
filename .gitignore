@@ -1,0 +1,15 @@
+vendor/
+
+.env
+
+.idea/
+
+.vscode/
+
+*.log
+
+*.tmp
+
+tests/output/
+
+composer.lock
